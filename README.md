@@ -1,6 +1,10 @@
 Inline-4 Engine: Crank-Slider Assembly
 
 Fully parametric SolidWorks model of an inline four-cylinder engine's moving group: engine block, crankshaft, connecting rods with caps, pistons, piston pins and piston rings.
+
+
+
+
 <img width="627" height="367" alt="6Motor Montaj Kesit" src="https://github.com/user-attachments/assets/3c75e6f7-f549-4ddc-93f5-8c74344a3c07" />
 
 
@@ -14,6 +18,11 @@ Engineering drawings for each component, plus STEP files for use in any CAD soft
 Developed as part of a university term project at Piri Reis University. The CAD modelling, assembly and technical drawings in this repository are my own work.
 
 Motion study
+
+
+
+
+
 <img width="800" height="450" alt="Montajgif" src="https://github.com/user-attachments/assets/92ea7b67-9523-4d47-9c28-33640b195c11" />
 
 
